@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RubRates</string>
+    <string name="rate">Rate</string>
+    <string name="equal_sign">=</string>
+    <string name="one">1</string>
+    <string name="char_code">RUB</string>
+    <string name="info">Курсы валют буду показаны к ближайшей зарегистрированной дате. </string>
+</resources>
