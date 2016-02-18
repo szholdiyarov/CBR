@@ -5,11 +5,11 @@
 
 Приложение также проверяет подключение устройства к сети, перед тем как отправить запрос.
 
-
-![alt tag](https://drive.google.com/file/d/0B8yqUX9oFE6_SnJNR3ROckU3eVU/view?usp=sharing)
-
-
-![alt tag](https://drive.google.com/open?id=0B8yqUX9oFE6_RWt1aWxnQnNON0E)
+<img src="http://zholdiyarov.esy.es/img/Screenshot_20160218-010626.png" alt="img" width="72" height="100">
 
 
-![alt tag](https://drive.google.com/open?id=0B8yqUX9oFE6_RWt1aWxnQnNON0E)
+<img src="http://zholdiyarov.esy.es/img/Screenshot_20160218-010633.png" alt="img" width="72" height="100">
+
+
+<img src="http://zholdiyarov.esy.es/img/Screenshot_20160218-010807.png" alt="img" width="72" height="100">
+
